@@ -1,0 +1,44 @@
+/* CSS NAVBAR DAN JUMBOTRON */
+.carousel-inner h5 {
+  margin-top: -950px;
+  font-weight: 200;
+}
+.carousel-inner h1 {
+  font-size: 180px;
+  padding-top: 20px;
+  font-weight: 600;
+}
+.carousel-inner button {
+  margin-top: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: wheat;
+  font-size: 15px;
+  font-weight: 300;
+  border-radius: 5px;
+  border: none;
+}
+.carousel-inner img {
+  background-size: cover;
+}
+.carousel-inner button:hover {
+  background-color: blanchedalmond;
+}
+
+/* CSS Footer */
+footer {
+  background-color: black;
+}
+footer h1 {
+  color: white;
+  font-size: 30px;
+}
+footer h3 {
+  color: white;
+  font-size: 15px;
+}
+footer p {
+  color: white;
+}
