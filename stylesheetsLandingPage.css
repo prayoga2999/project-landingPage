@@ -10,7 +10,7 @@
 }
 .navbar a {
   font-size: 20px;
-  font-weight: bold;
+  font-weight: 400;
 }
 .carousel-inner button {
   margin-top: 60px;
@@ -44,6 +44,7 @@
 .bgsection h2 {
   margin-top: 90px;
   font-size: 20px;
+  text-align: center;
 }
 .bgsection button {
   align-items: center;

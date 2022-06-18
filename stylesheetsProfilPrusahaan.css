@@ -1,3 +1,7 @@
+.navbar a {
+  font-size: 20px;
+  font-weight: 400;
+}
 /* CSS Section 1 */
 .section1 {
   background-image: url(./SliderLandingPage/800px-Traditional_indonesian_instruments02.jpg);
