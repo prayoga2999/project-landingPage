@@ -1,0 +1,85 @@
+/* CSS Section 1 */
+.section1 {
+  background-image: url(./SliderLandingPage/800px-Traditional_indonesian_instruments02.jpg);
+  background-size: 100% 100%;
+  height: 100vh;
+}
+.section1 h1 {
+  margin-top: 500px;
+  color: white;
+  font-size: 120px;
+}
+.section1 h4 {
+  font-size: 20px;
+  color: white;
+  letter-spacing: 10px;
+}
+/* CSS section 2 */
+.section2 h4 {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 80px;
+  color: #acacac;
+}
+.section2 h1 {
+  font-size: 65px;
+  text-align: center;
+  font-weight: 350;
+  margin-bottom: 80px;
+}
+.section2 p {
+  font-size: 20px;
+  margin-bottom: 80px;
+}
+.section2 .card {
+  background-color: #6e5e39;
+  margin-bottom: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.card h5 {
+  font-size: 40px;
+  font-weight: 500;
+}
+/* CSS Section 3 */
+.section3 {
+  background-color: rgb(236, 228, 212);
+}
+.section3 h4 {
+  font-size: 20px;
+  margin-top: 80px;
+  color: #acacac;
+}
+.section3 h1 {
+  font-size: 70px;
+  font-weight: 350;
+  margin-bottom: 80px;
+}
+.card {
+  margin-bottom: 80px;
+}
+/* CSS Footer */
+footer {
+  background-color: black;
+  min-height: 500px;
+}
+footer h1 {
+  color: white;
+  font-size: 30px;
+  font-weight: 400;
+  margin-top: 150px;
+  padding-bottom: 40px;
+}
+footer h3 {
+  color: white;
+  font-size: 15px;
+  font-weight: 200;
+}
+footer hr {
+  margin-top: 40px;
+}
+footer p {
+  color: white;
+}
