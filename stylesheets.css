@@ -8,6 +8,10 @@
   padding-top: 20px;
   font-weight: 600;
 }
+.navbar a {
+  font-size: 20px;
+  font-weight: bold;
+}
 .carousel-inner button {
   margin-top: 60px;
   padding-top: 20px;
@@ -26,20 +30,93 @@
 .carousel-inner button:hover {
   background-color: blanchedalmond;
 }
+/* css section 2 */
+.section2 {
+  margin-top: 70px;
+}
+.bgsection {
+  background-color: #6e5e39;
+}
+.bgsection h1 {
+  text-align: center;
+  margin-top: 70px;
+}
+.bgsection h2 {
+  margin-top: 90px;
+  font-size: 20px;
+}
+.bgsection button {
+  align-items: center;
+  margin-top: 20px;
+  background-color: #6e5e39;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: white;
+  color: white;
+  border-radius: 10px;
+}
+/* CSS Section 3 */
+.section3 h1 {
+  font-size: 20px;
+  color: #acacac;
+  margin-top: 40px;
+}
+.section3 h2 {
+  font-size: 70px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 
+/* CSS Section 4 */
+.section4 {
+  background-color: #6e5e39;
+  min-height: 400px;
+}
+.section4 h3 {
+  margin-top: 150px;
+  color: #acacac;
+}
+.section4 h1 {
+  color: white;
+  margin-top: 40px;
+}
+.section4 p {
+  color: white;
+  margin-top: 40px;
+}
+.section4 button {
+  align-items: center;
+  margin-top: 40px;
+  background-color: #6e5e39;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: white;
+  color: white;
+  border-radius: 10px;
+}
 /* CSS Footer */
 footer {
   background-color: black;
+  min-height: 500px;
 }
 footer h1 {
   color: white;
   font-size: 30px;
   font-weight: 400;
+  margin-top: 150px;
+  padding-bottom: 40px;
 }
 footer h3 {
   color: white;
   font-size: 15px;
   font-weight: 200;
+}
+footer hr {
+  margin-top: 40px;
 }
 footer p {
   color: white;
