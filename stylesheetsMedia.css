@@ -34,14 +34,21 @@
   margin-left: 20px;
   margin-left: 20px;
   margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 /* Css section 3 */
+.section3 h1 {
+  font-size: 65px;
+  text-align: center;
+  font-weight: 350;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
 .section3 .img {
   margin-left: 20px;
   margin-left: 20px;
   margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 /* CSS Footer */
 footer {

@@ -2,7 +2,23 @@
   font-size: 20px;
   font-weight: 400;
 }
+/* Css Section 1 */
+.section1 {
+  background-image: url(./SliderLandingPage/800px-Traditional_indonesian_instruments02.jpg);
+  background-size: 100% 100%;
+  height: 100vh;
+}
 
+.section1 h1 {
+  margin-top: 500px;
+  color: white;
+  font-size: 120px;
+}
+.section1 h4 {
+  font-size: 20px;
+  color: white;
+  letter-spacing: 10px;
+}
 /* CSS Footer */
 footer {
   background-color: black;
