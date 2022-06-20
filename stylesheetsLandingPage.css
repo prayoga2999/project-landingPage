@@ -58,6 +58,18 @@
   color: white;
   border-radius: 10px;
 }
+.section2 a {
+  align-items: center;
+  margin-top: 40px;
+  background-color: #6e5e39;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: white;
+  color: white;
+  border-radius: 10px;
+}
 /* CSS Section 3 */
 .section3 h1 {
   font-size: 20px;
@@ -86,6 +98,9 @@
 .section4 p {
   color: white;
   margin-top: 40px;
+}
+.section4 a {
+  color: white;
 }
 .section4 button {
   align-items: center;
