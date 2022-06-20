@@ -8,6 +8,9 @@
   padding-top: 20px;
   font-weight: 600;
 }
+.carousel-inner a {
+  color: white;
+}
 .navbar a {
   font-size: 20px;
   font-weight: 400;

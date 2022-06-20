@@ -19,6 +19,34 @@
   color: white;
   letter-spacing: 10px;
 }
+
+/* CSS section 2 */
+
+.section2 p {
+  font-size: 20px;
+}
+.section2 h3 {
+  font-size: 15px;
+}
+.section2 a {
+  color: white;
+}
+.section2 .card {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.section2 button {
+  align-items: center;
+  margin-top: 20px;
+  background-color: #6e5e39;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: white;
+  color: white;
+  border-radius: 10px;
+}
 /* CSS Footer */
 footer {
   background-color: black;
